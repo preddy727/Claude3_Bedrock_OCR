@@ -1,5 +1,5 @@
 # Claude3_Bedrock_OCR
-Python code samples for using Claude 3 models to process PDF and extract text 
+Python code samples for using Claude 3 models to process PDF and extract text. Also examples for using textract. 
 
 This lab will walk you through the basics of connecting to the Amazon Bedrock service from Python with boto3.
 
